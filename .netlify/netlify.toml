@@ -1,0 +1,30 @@
+plugins = []
+functionsDirectory = "C:\\Users\\Acer\\School Projects\\mobileChatFunctions\\functions"
+functionsDirectoryOrigin = "config-v1"
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\Acer\\School Projects\\mobileChatFunctions"
+publishOrigin = "default"
+base = "C:\\Users\\Acer\\School Projects\\mobileChatFunctions"
+functions = "C:\\Users\\Acer\\School Projects\\mobileChatFunctions\\functions"
+commandOrigin = "heuristics"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
